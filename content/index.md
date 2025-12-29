@@ -9,7 +9,7 @@ title: Welcome
 ## 시작하기
 
 이 사이트는 다음과 같은 기술 분야를 탐색합니다.
-- [Robot SW의 기초](elementOfRobot/index)
-- [Obsidian](https://obsidian.md/) - 마크다운 에디터
-- [GitHub Pages](https://pages.github.com/) - 호스팅
-
+- [Robot SW의 기초](modern-robot-sw/element-of-robot/index.md)
+- [[physical-AI/index]]
+- 
+- 
