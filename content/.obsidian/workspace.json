@@ -25,14 +25,12 @@
             "id": "b11ccac882457f62",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "modern-robot-sw/들어가기 전에.md",
-                "mode": "source",
-                "source": false
+                "file": "svg/Drawing 2026-01-03 13.02.00.excalidraw.svg"
               },
-              "icon": "lucide-file",
-              "title": "들어가기 전에"
+              "icon": "lucide-image",
+              "title": "Drawing 2026-01-03 13.02.00.excalidraw"
             }
           }
         ],
@@ -202,6 +200,9 @@
   "active": "b11ccac882457f62",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-01-03 13.02.00.excalidraw.md",
+    "svg/Drawing 2026-01-03 13.02.00.excalidraw.svg",
+    "svg",
+    "새 폴더",
     "modern-robot-sw/들어가기 전에.md",
     "index.md",
     "modern-robot-sw/element-of-robot/1장- 로봇 공학 기초(작성중).md",
@@ -229,8 +230,6 @@
     "modern-robot-sw/robot-map/Robot Map.md",
     "modern-robot-sw/mapf",
     "modern-robot-sw/physical-ai/Physical AI.md",
-    "modern-robot-sw/robot-map",
-    "modern-robot-sw/physical-ai",
     "modern-robot-sw/digitial-twin/Digital Twin.md",
     "wikilinks.md",
     "modern-robot-sw/element-of-robot/index.md",

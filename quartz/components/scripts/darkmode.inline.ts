@@ -1,3 +1,5 @@
+import { renderExcalidrawLinks } from "./util"
+
 const userPref = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark"
 const currentTheme = localStorage.getItem("theme") ?? userPref
 document.documentElement.setAttribute("saved-theme", currentTheme)
@@ -7,6 +9,7 @@ const emitThemeChangeEvent = (theme: "light" | "dark") => {
     detail: { theme },
   })
   document.dispatchEvent(event)
+  renderExcalidrawLinks(theme)
 }
 
 document.addEventListener("nav", () => {
