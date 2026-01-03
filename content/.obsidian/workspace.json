@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "eb02c180f1346b32",
+            "id": "b11ccac882457f62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "modern-robot-sw/들어가기 전에.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "들어가기 전에"
             }
           }
         ],
@@ -195,13 +195,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "eb02c180f1346b32",
+  "active": "b11ccac882457f62",
   "lastOpenFiles": [
-    "modern-robot-sw/humanoid/Humanoid.md",
+    "Excalidraw/Drawing 2026-01-03 13.02.00.excalidraw.md",
+    "modern-robot-sw/들어가기 전에.md",
     "index.md",
+    "modern-robot-sw/element-of-robot/1장- 로봇 공학 기초(작성중).md",
+    "Gemini_Generated_Image_f3zuaxf3zuaxf3zu.png",
+    "Gemini_Generated_Image_c0v5qzc0v5qzc0v5.png",
+    "Gemini_Generated_Image_135hws135hws135h.png",
+    "Gemini_Generated_Image_3udybt3udybt3udy.png",
+    "robot icon.png",
+    "Excalidraw/Drawing 2026-01-03 13.02.33.excalidraw.md",
+    "Untitled.canvas",
+    "Excalidraw",
+    "modern-robot-sw/drawing",
+    "Untitled.md",
+    "modern-robot-sw/humanoid/Humanoid.md",
     "modern-robot-sw/humanoid",
     "modern-robot-sw/ros/ROS 핥기.md",
     "modern-robot-sw/slam/slam 은 어떻게 하는가.md",
@@ -216,15 +230,11 @@
     "modern-robot-sw/mapf",
     "modern-robot-sw/physical-ai/Physical AI.md",
     "modern-robot-sw/robot-map",
-    "modern-robot-sw/Welcome.md",
     "modern-robot-sw/physical-ai",
     "modern-robot-sw/digitial-twin/Digital Twin.md",
-    "modern-robot-sw/digitial-twin",
-    "modern-robot-sw/element-of-robot/1장- 로봇 공학 기초.md",
     "wikilinks.md",
     "modern-robot-sw/element-of-robot/index.md",
     "Robot.md",
-    "().md",
-    "modern-robot-sw/element-of-robot"
+    "().md"
   ]
 }
